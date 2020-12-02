@@ -18,4 +18,4 @@ Pseudo Code:
 		print critical error 
 	
     
-![Screenshot](Which number is greater.png)
+![Screenshot](Which number is greater.jpeg)
