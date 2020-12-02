@@ -7,15 +7,23 @@ College: Acropolis Indore (IT) Branch
 #include <stdio.h>
 
 int main(void) {
-	int a,b; //Declare 2 Variable of int type
+  int a,b; //Declare 2 Variable of int type
 
-	printf("Enter First Number ");
-	scanf("%d",&a);
+  printf("Enter First Number "); //first number
+  scanf("%d",&a);
 
-  printf("Enter Second Number ");
-	scanf("%d",&b);
+  printf("Enter Second Number "); //second number
+  scanf("%d",&b);
 
-  printf("%d",a);
+  if(a>b){
+    printf("First Number is greater");
+  } else if(b>a){
+    printf("Second Number is greater");
+  }else if(b==a){
+    printf(":( Both Number are Equal");
+  } else {
+    printf("Critical Error");
+  }
 
 
 
