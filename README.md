@@ -18,4 +18,4 @@ Pseudo Code:
 		print critical error 
 	
     
-![Screenshot](Which number is greater.jpg)
+![alt tag](https://raw.githubusercontent.com/larosnjack05/Check-Which-number-is-greater/master/Which%20number%20is%20greater.jpg)
